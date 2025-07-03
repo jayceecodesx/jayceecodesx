@@ -28,6 +28,9 @@ Learning: ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-th
 
 
 ## 30NitesOfCode Journey : 🧚🏽
-[![image](https://github.com/user-attachments/assets/da17f480-86c1-41dd-ae25-459da5a6d636)](https://www.codedex.io/images/code-nights/dragon.gif)
-
+<p align="center">
+  <img src="https://www.codedex.io/images/code-nights/dragon.gif" alt="Dragon Banner" />
+</p>
+<p align="center">
 <a href= "https://www.codedex.io/@jayceecodes/30-nites-of-code"> Check out my progress! </a>
+</p>
