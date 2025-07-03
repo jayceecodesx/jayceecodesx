@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 
 
 #### 📝 Working on: 
+- blogging my progress
 - building projects
 - learning HTML, Java and C++
 
