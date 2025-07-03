@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
 
 
-#### 30NitesOfCode Journey : 🧚🏽
+#### 30NitesOfCode Journey 🧚🏽 :
 <p align="center">
   <img src="https://www.codedex.io/images/code-nights/dragon.gif" alt="Dragon Banner" />
 </p>
