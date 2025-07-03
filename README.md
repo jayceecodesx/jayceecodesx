@@ -1,4 +1,4 @@
-## Hi there 👋
+## Get to know me: 🧚🏽
 
 <!--
 **jayceecodesx/jayceecodesx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 📝 I’m currently working on my coding skills
+- 🌱 I’m currently learning HTML
+- 💐 Fun fact: Initially, I pursued a Psychology degree, but later changed it to a Cybersecurity degree.
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=jayceecodesx&show_icons=true&theme=jolly)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&theme=nightowl)
+## 30NitesOfCode Journey : 🧚🏽
+[![image](https://github.com/user-attachments/assets/da17f480-86c1-41dd-ae25-459da5a6d636)](https://www.codedex.io/images/code-nights/dragon.gif)
+
+<a href= "https://www.codedex.io/@jayceecodes/30-nites-of-code"> Check out my progress! </a>
