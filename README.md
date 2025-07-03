@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi there, I'm Jaycee, and I've always been interested in technology, starting from an early age. Currently, I'm a CyberSecurity student learning continuously through my college degree, hands-on practice online resources.
+Hi there, I'm Jaycee, and I've always been interested in technology, starting from an early age. Currently, I'm a CyberSecurity student learning continuously through my college degree, hands-on practice, and online resources.
 
 <pre lang="markdown"> interestedin = ["CyberSecurity", "Web Development", "Software Engineering"]</pre>
 
@@ -22,7 +22,7 @@ Hi there, I'm Jaycee, and I've always been interested in technology, starting fr
 #### 📝 Working on: 
 - blogging my progress
 - building projects
-- learning HTML, Java and C++
+- learning HTML, Java, and C++
 
 #### 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -33,7 +33,6 @@ Hi there, I'm Jaycee, and I've always been interested in technology, starting fr
 
 
 
-
 #### 30NitesOfCode Journey 🧚🏽 :
 <p align="center">
   <img src="https://www.codedex.io/images/code-nights/dragon.gif" alt="Dragon Banner" />
@@ -41,3 +40,7 @@ Hi there, I'm Jaycee, and I've always been interested in technology, starting fr
 <p align="center">
 <a href= "https://www.codedex.io/@jayceecodes/30-nites-of-code"> Check out my progress! </a>
 </p>
+
+
+#### 📫 Contact Info:
+##### Email:[jaycee.welcome@saintleo.edu]
