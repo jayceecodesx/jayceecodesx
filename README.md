@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 
 
 #### 📝 Working on: 
-- building projects using HTML, Java and C++ whilst <b> learning </b> them.
+- building projects
+- learning HTML, Java and C++
 
 #### 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
