@@ -1,4 +1,4 @@
-## jayceecodesx 🧚🏽
+## jayceecodesx 👩‍💻
 <!--
 **jayceecodesx/jayceecodesx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,8 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hi there, I'm Jaycee, and I've always been interested in technology, starting from an early age. Currently, I'm a CyberSecurity student learning continuously through my college degree, hands-on practice online resources.
 
-<pre lang="markdown"> interestedin = ["CyberSecurity", "Web Development" and "Software Engineering"]</pre>
+<pre lang="markdown"> interestedin = ["CyberSecurity", "Web Development", "Software Engineering"]</pre>
 
 
 
@@ -29,6 +30,8 @@ Here are some ideas to get you started:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)
 ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
+
+
 
 
 #### 30NitesOfCode Journey 🧚🏽 :
