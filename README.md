@@ -38,7 +38,7 @@ Hi there, I'm Jaycee, and I've always been interested in technology from an earl
   <img src="https://www.codedex.io/images/code-nights/dragon.gif" alt="Dragon Banner" />
 </p>
 <p align="center">
-<a href= ""> Check out my progress! </a>
+<a href= "https://www.codedex.io/@jayceecodes/30-nites-of-code"> Check out my progress! </a>
 </p>
 
 
