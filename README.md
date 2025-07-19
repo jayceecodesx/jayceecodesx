@@ -23,9 +23,9 @@ Hi there, I'm Jaycee, and I've always been interested in technology from an earl
 - [ ] blogs
 - [ ] projects
 - [ ] learning and certs for:
-- [x] html
-- [ ] c++
-- [ ] java
+  - [x] html
+  - [ ] c++
+  - [ ] java
 
 #### 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
