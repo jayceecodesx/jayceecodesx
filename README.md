@@ -20,9 +20,12 @@ Hi there, I'm Jaycee, and I've always been interested in technology from an earl
 
 
 #### 📝 Working on: 
-- blogging my progress
-- building projects
-- learning Java and C++
+- [ ] blogging my progress
+- [x] building projects
+obtaining certs and learning:
+- [x] html
+- [ ] c++
+- [ ] java
 
 #### 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
