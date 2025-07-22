@@ -20,9 +20,8 @@ Hi there, I'm Jaycee, and I've always been interested in technology from an earl
 
 
 #### 📝 Working on: 
-- [ ] projects and notes
-- [ ] c++
-- [ ] java
+- [ ] blogging my first blog 
+- [ ] learning coding languages (c++ and java), and other tech basics 
 
 
 
