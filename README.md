@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi there, I'm Jaycee, and I've always been interested in technology from an early age. Currently, I'm a CyberSecurity student learning continuously through my college degree, hands-on practice, and online resources.
+A passionate Cybersecurity student with a lifelong interest in technology. I’m actively building my skills through my college degree, hands-on projects, and continuous self-learning. I’m eager to apply my knowledge in real-world environments and contribute to creating secure, innovative solutions.
 
 <pre lang="markdown"> interestedin = ["CyberSecurity", "Web Development", "Software Engineering"]</pre>
 
